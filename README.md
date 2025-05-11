@@ -2,7 +2,8 @@
 
 [![Image from Gyazo](https://i.gyazo.com/8c4190622cc57dbc8d467bc6f01d08a2.gif)](https://gyazo.com/8c4190622cc57dbc8d467bc6f01d08a2)  
 
-Created a dynamic dashboard using Excel that analyzes a fictional company's social media posts over the course of a year found [here](https://github.com/intern2grow/social-media-data-analysis)
+Created a dynamic dashboard using Excel that analyzes a fictional company's social media posts over the course of a year.  
+The data set used can be found [here.](https://github.com/intern2grow/social-media-data-analysis)
 
 ## Skills Used
 
@@ -26,5 +27,5 @@ Created a drop down menu that restricts user input to specific values, improving
 
 ## Download  
 
-You can download and use the file yourself [here](https://github.com/s383yang/Data-Analytics-Dashboard/blob/main/dashboard.xlsx)
+You can download and use the file yourself [here.](dashboard.xlsx)
 
